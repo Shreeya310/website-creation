@@ -1,0 +1,11 @@
+p=input("enter p value")
+q=input("enter q value")
+print("before swapping p value:",p)
+print("before swapping q value:",q)
+
+r=p  
+p=q
+q=r
+
+print("after swapping p value:",p)
+print("after swapping q value:",q)
