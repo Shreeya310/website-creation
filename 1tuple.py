@@ -1,0 +1,5 @@
+python_tuple=(7,8,9)
+print(python_tuple[1])
+python_tuple=("shreeya",(23,45,67),(12,34,56))
+print(python_tuple[2][2])
+print(python_tuple[1][0])
